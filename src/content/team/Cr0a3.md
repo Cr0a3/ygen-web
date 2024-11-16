@@ -1,6 +1,6 @@
 ---
 draft: false
-name: "Toni Ivanovski"
+name: "Cr0a3"
 title: "Main developer"
 avatar: {
     src: "https://avatars.githubusercontent.com/u/127748753?v=4",
